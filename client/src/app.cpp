@@ -409,7 +409,7 @@ namespace app {
     void app_t::draw_lobby( ) {
         static constexpr const char* descriptions[ ] = {
             "Straight up 35:1, dozens, columns, red/black, even/odd, low/high",
-            "Pick a target multiplier before launch",
+            "Live multiplier, cash out before it crashes",
             "5x5 board with 3, 5 or 8 mines",
             "Double down, split up to four hands, insurance",
             "Five lanes, three risk levels"

@@ -17,6 +17,16 @@ A provably fair casino with an authoritative Node.js server and a native Windows
 
 > **Virtual coins only.** No real money, payments or withdrawals. Educational project.
 
+<p align="center">
+  <img src="docs/lobby.png" alt="casino-engine lobby" width="860">
+</p>
+
+## Screenshots
+
+<p align="center">
+  <img src="docs/roulette.png" alt="Roulette table with chips and betting layout" width="860">
+</p>
+
 ## Games
 
 | Game | Rules |
