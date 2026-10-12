@@ -1,0 +1,17 @@
+{
+  "name": "casino-engine-server",
+  "version": "1.0.0",
+  "description": "Authoritative provably fair casino server with virtual coins",
+  "main": "server.js",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test \"tests/*.test.js\""
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
